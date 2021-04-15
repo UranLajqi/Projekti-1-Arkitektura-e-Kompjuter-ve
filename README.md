@@ -1,1 +1,1 @@
-# Projekti-1-Arkitektura-e-Kompjuter-ve
+Projekti 1 - Arkitektura e Kompjuterve
